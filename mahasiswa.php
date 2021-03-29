@@ -2,6 +2,7 @@
 <html>
 <head>
  <title>Form Data Mahasiswa</title>
+ <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h2>Form Data Mahasiswa</h2>
