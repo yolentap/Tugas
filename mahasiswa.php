@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Form Mahasiswa</title>
+ <title>Form Data Mahasiswa</title>
 </head>
 <body>
-<h2>Form Mahasiswa</h2>
+<h2>Form Data Mahasiswa</h2>
  <form method = 'post' action= "aksiForm.php">
   <table>
    <tr>
